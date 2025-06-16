@@ -1,6 +1,6 @@
 # LEAR Framework on MNIST: Generating Counterfactual Explanations and validating it
 
-This project implements the **Learn Explain Reinforce (LEAR)** framework on the MNIST dataset to generate counterfactual explanations. If you want to know more about counterfactual informations, please see the counterfactual-explanations repo which i have uploaded. 
+This project implements the **Learn Explain Reinforce (LEAR)** framework on the MNIST dataset using PyTorch to generate counterfactual explanations. If you want to know more about counterfactual informations, please see the counterfactual-explanations repo which i have uploaded. 
 
 Unlike typical XAI methods, LEAR modifies the **latent space** of input representations to produce realistic, minimal transformations that lead to different outcomes, enabling deep insight into model decision boundaries.
 
